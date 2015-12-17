@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "BlinkingLabel"
-  s.version      = "0.0.1"
+  s.version      = "0.1.0"
   s.summary      = "snappy and to the pointabel lakjhdsflja asjkdnd ."
 
   # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   Licensing your code is important. See http://choosealicense.com for more info.  CocoaPods will detect a license
                    DESC
 
-  s.homepage     = "http://github.com/asharma713/BlinkingLabel"
+  s.homepage     = "https://github.com/asharma713/BlinkingLabel"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
