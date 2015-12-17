@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!  
   s.description      = "This is not a real pod. I've simply made it for the purposes of learning how to make a pod."
 
-  s.homepage         = "https://github.com/asharma713/BlinkingLabel"
+  s.homepage         = "https://github.com/asharma713"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Amit Sharma" => "amitsharm@mac.com" }
-  s.source           = { :git => "https://github.com/asharma/BlinkingLabel.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/asharma713/BlinkingLabel.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.platform     = :ios, '7.0'
+  s.platform     = :ios, '8.0'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes/**/*'
