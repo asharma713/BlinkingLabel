@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'F2294E6BE7307D34B3A99D7A'
+               BlueprintIdentifier = '50AA4C7374528536A92914E4'
                BlueprintName = 'BlinkingLabel'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'BlinkingLabel.framework'>

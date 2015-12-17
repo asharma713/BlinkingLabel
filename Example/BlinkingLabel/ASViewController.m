@@ -7,6 +7,7 @@
 //
 
 #import "ASViewController.h"
+#import "ASExampleLabel.h"
 
 @interface ASViewController ()
 
@@ -17,6 +18,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    ASExampleLabel *sample = [[ASExampleLabel alloc] init];
+    [sample exampleMethods];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

@@ -1,9 +1,9 @@
 {
   "name": "BlinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of BlinkingLabel.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BlinkingLabel",
+  "summary": "This is not a real pod.",
+  "description": "This is not a real pod. I've simply made it for the purposes of learning how to make a pod.",
+  "homepage": "https://github.com/asharma713/BlinkingLabel",
   "license": "MIT",
   "authors": {
     "Amit Sharma": "amitsharm@mac.com"
