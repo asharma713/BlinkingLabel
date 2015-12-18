@@ -93,7 +93,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = { :git => "https://github.com/asharma713/BlinkingLabel.git", :commit => "8cabec734ececc71ed0489f6a25eb67f10cccc67" }
+s.source_files  = { :git => "https://github.com/asharma713/BlinkingLabel.git", :commit => "bbbc6fba240cf9f27625b78806720a1eec0b9026" }
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
